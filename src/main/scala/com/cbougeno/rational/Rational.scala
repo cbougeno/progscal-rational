@@ -12,7 +12,7 @@ class Rational (n: Int, d: Int ) {
 
   override def toString: String = n + "/" + d
 
-  def add(that: Rational):Rational =
+  def +(that: Rational):Rational =
     new Rational(
       this.numer * that.denom + this.denom * that.numer,
       this.denom * that.denom
