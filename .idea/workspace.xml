@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4475ec96-dbcc-4915-aa9d-ccd71dc8dd44" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/cbougeno/rational/Rational.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/cbougeno/rational/Rational.scala" />
-    </list>
+    <list default="true" id="4475ec96-dbcc-4915-aa9d-ccd71dc8dd44" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
