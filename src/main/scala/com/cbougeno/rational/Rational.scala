@@ -17,4 +17,10 @@ class Rational (n: Int, d: Int ) {
       this.numer * that.denom + this.denom * that.numer,
       this.denom * that.denom
     )
+
+  def -(that: Rational):Rational =
+    new Rational(
+      this.numer * that.denom - this.denom * that.numer,
+      this.denom * that.denom
+    )
 }
